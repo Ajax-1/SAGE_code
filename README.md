@@ -20,7 +20,7 @@ src/sage/      SAGE public interfaces and staged components
 
 ## Current status
 
-The repository is not intended to reproduce the reported numbers at this interim stage. A complete, cleaned code and configuration package will be published in a later release after internal review and de-identification of project-specific assets and paths. See [`docs/release_notes.md`](docs/release_notes.md) for the current scope.
+The documented workflow and public interfaces are provided for inspection at this stage. A complete, cleaned code and configuration package will be published in a later release after internal review and de-identification of project-specific assets and paths. See [`docs/release_notes.md`](docs/release_notes.md) for the current scope.
 
 ## Future release
 
