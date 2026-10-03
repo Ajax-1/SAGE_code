@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use SAGE, please cite the associated paper."
+type: software
+title: "SAGE: Shadow-Adaptive Geometric Supervision for Earth Observation Gaussian Splatting"
+authors:
+  - family-names: Guo
+    given-names: Yanan
+  - family-names: An
+    given-names: Jiajun
+  - family-names: Zhang
+    given-names: Benkui
+  - family-names: Chang
+    given-names: Ying
+  - family-names: He
+    given-names: Kangjian
+  - family-names: Cao
+    given-names: Lin
+repository-code: "https://github.com/Ajax-1/SAGE_code"
+license: "NOASSERTION"

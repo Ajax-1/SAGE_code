@@ -1,0 +1,5 @@
+# Public environment declaration for the staged repository.
+# Exact versions and the complete dependency set will be pinned in the final release.
+numpy
+pyyaml
+torch

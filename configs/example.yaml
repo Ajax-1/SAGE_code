@@ -1,0 +1,10 @@
+# Public configuration shape only. Fill in project-specific values in the final release.
+data:
+  root: /path/to/data
+  scene: example_scene
+model:
+  initialization: /path/to/initialization
+optimization:
+  iterations: null
+sage:
+  implementation: withheld_until_final_release
